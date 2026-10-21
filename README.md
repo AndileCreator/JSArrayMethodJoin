@@ -1,0 +1,2 @@
+# JSArrayMethodJoin
+Class practise
